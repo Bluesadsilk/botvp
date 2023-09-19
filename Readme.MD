@@ -1,0 +1,1 @@
+##Quiero hacer un bot para mi servidor de discord que se base en mi profesor de base de datos, que es un máquina y prolinux como todo administrador y desarrolador debería ser. Principalmente quiero que el bot interactue con los integrantes del servidor para contestar dudas usando chat gpt y diciendo frases prolinux para que amenize las jornadas de estudio.
