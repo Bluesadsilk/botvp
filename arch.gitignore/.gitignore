@@ -1,0 +1,8 @@
+# Ignorar archivos temporales
+*.tmp
+
+# Ignorar directorio de dependencias Node.js
+node_modules/
+
+# Ignorar archivos de registro
+logs/
